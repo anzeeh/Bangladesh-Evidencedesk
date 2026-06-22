@@ -58,10 +58,7 @@ Themes and methods are assigned automatically from titles and abstracts using ke
 
 3ie updates its repository periodically. To refresh this dashboard:
 
-1. Go to [3ie's evidence hub](https://www.3ieimpact.org/evidence-hub/publications/impact-evaluations), run the Bangladesh search, and export a new Excel file
-2. Upload the file to Claude (claude.ai) and say *"update the Bangladesh evidence dashboard with this new export"*
-3. Claude re-runs the classification and produces a new `index.html`
-4. Replace the file in this repository — GitHub Pages will update automatically within a minute or two
+1. Go to [3ie's evidence hub](https://www.3ieimpact.org/evidence-hub/publications/impact-evaluations), run the Bangladesh search, and export a new Excel file and then refresh the dashboard
 
 ---
 
